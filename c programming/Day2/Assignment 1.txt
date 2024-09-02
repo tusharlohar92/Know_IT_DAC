@@ -1,0 +1,31 @@
+Assignments
+1.	Accept number and check whether it is positive, negative or zero. Give proper messages.
+2.	Accept number and check if it is odd or even, give proper messages.
+3.	Accept two numbers and find out smaller and bigger number. Give proper messages.
+4.	Accept 3 numbers and print the smallest number.
+5.	Accept character value from user and check whether accepted value is a alphabet.
+6.	Accept Basic salary and total sales from user and calculate commission and net salary. Commission is calculated on sales done.
+    net salary = basic salary + commission 
+    if Total Sales is 5000 to 7000 commission is 3%    
+    if Total sales is 7001 to 10000 commission is 5%    
+    if Total Sales is 10,001 to 15000 commission is 10%    
+    if Total sales is above 15001 commission is 15%.
+    Your program should print Basic Salary, Commission and Net Salary.
+7.	Write a code for the following requirement.
+
+                    MAIN MENU
+              ---------------------
+                   1 :: Square
+                   2 :: Rectangle
+                   3 :: Circle
+              ---------------------
+              Enter Your Choice : __
+
+    We need to find an area of above geometric figures depending on the choice of user.
+    Accept option 1,2 or 3 from the user and find area for respective figure. Accept required input 
+    values, like length, breadth, radius from the user. Also give a proper message if user enters wrong 
+    choice. Use case statement.
+Extra Assignments
+
+1.	Write a program to designe a calculator. Accept 2 numbers and a operatore(+, -, *, /, %). Perform appropriate operation.  And print the result. Use case statement.
+2.	Accept a character and convert it into opposite case.
