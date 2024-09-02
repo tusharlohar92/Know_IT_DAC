@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int first, second, add, subtract, multiply;
+    float divide;
+    
+    cout << "Please enter First integer: \t";
+    cin >> first;
+    cout << "Please enter Second integer: \t";
+    cin >> second;
+    
+    add        = first + second;
+    subtract = first - second;
+    multiply = first * second;
+    divide     = first / (float)second;   //typecasting
+    
+    cout << endl <<"Sum = " << add;
+    cout << endl <<"Difference = " << subtract;
+    cout << endl <<"Multiplication = " << multiply;
+    cout << endl <<"Division = " << divide; 
+    
+    return 0;
+}
